@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://assets.infyom.com/open-source/infyom-logo.png" alt="InfyOm"></h1>
 
-# Laravel UI Stisla
+# Laravel UI Stisla Fork
 
 [![Total Downloads](https://poser.pugx.org/infyomlabs/laravel-ui-stisla/downloads)](https://packagist.org/packages/infyomlabs/laravel-ui-stisla)
 [![Monthly Downloads](https://poser.pugx.org/infyomlabs/laravel-ui-stisla/d/monthly)](https://packagist.org/packages/infyomlabs/laravel-ui-stisla)
@@ -10,6 +10,9 @@
 [Laravel Frontend Scaffolding](https://laravel.com/docs/7.x/frontend) for [Stisla UI](https://demo.getstisla.com/index.html) Theme.
 
 ## Documentation
+
+## Install
+ `composer require memoafrica/laravel-ui-stisla`
 
 Read [Documentation](https://infyom.com/open-source/laravel-ui-stisla/docs) for detailed installation steps and usage.
 
